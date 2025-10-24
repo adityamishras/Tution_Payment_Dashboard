@@ -50,7 +50,7 @@ To include these images, make sure you have a folder named **`assets`** in your 
 | **Student Login** | The interface for students to sign in. | ![Login Screen](assets/Screenshot%202025-10-24%20214407.png) |
 | **Student Dashboard** | The main landing page after login, showing key modules and announcements. | ![Dashboard View](assets/Screenshot%202025-10-24%20214823.png) |
 | **Edit Profile** | The interface for updating personal and contact details. | ![Profile Update Screen](assets/Screenshot%202025-10-24%20214808.png) |
-| **Payment Screen** | The interface for Adding Amount in RS/- to Pay Tution Fees . | ![Payment Screen For Amount Input](assets/Screenshot%2025-08-25%104332.png) |
+| **Payment Screen** | The interface for Adding Amount in RS/- to Pay Tution Fees . | ![Payment Screen For Amount Input](assets/payment_interface_input.png) |
 
 ---
 
