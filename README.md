@@ -14,7 +14,6 @@ The application provides a comprehensive platform for both new and existing stud
 
 ### 2. Secure Student Login
 * **Dedicated Login Page:** Students can securely log in using their email and the provided password.
-* **Password Management:** Includes a "Forgot password?" link for account recovery.
 
 ### 3. Comprehensive Student Dashboard
 * **Personalized Welcome:** Greets the student by name and displays their associated email.
@@ -32,9 +31,9 @@ The application provides a comprehensive platform for both new and existing stud
 ## 💻 Technologies Used
 
 * *(Add the technologies you used here, e.g., React, Node.js, MongoDB, Tailwind CSS, etc.)*
-    * **Frontend:** [Your Frontend Framework/Library]
-    * **Backend:** [Your Backend Framework/Language]
-    * **Database:** [Your Database]
+    * **Frontend:** [Html, CSS, Javacript, Tailwindcss, Flowbite]
+    * **Backend:** [PHP]
+    * **Database:** [MySql]
     * **Styling:** [CSS/Tailwind/Bootstrap]
 
 ---
