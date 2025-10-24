@@ -1,0 +1,22 @@
+CREATE TABLE students (
+  uid INT AUTO_INCREMENT PRIMARY KEY,
+  student_id VARCHAR(10),
+  name VARCHAR(100),
+  email VARCHAR(100),
+  phone VARCHAR(20),
+  password VARCHAR(255),
+  class VARCHAR(20),
+  gender VARCHAR(10),
+  image VARCHAR(255),
+  start_year INT
+);
+
+CREATE TABLE fees (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT NOT NULL,
+    amount DECIMAL(10, 2) NOT NULL,
+    paid_on DATE NOT NULL,
+    payment_mode VARCHAR(50), -- cash, UPI, card, etc.
+    status ENUM('Paid', 'Pending') DEFAULT 'Paid',
+    FOREIGN KEY (student_id) REFERENCES students(uid)
+);

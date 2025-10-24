@@ -1,0 +1,37 @@
+/* Optional: Force body light theme background if not dark */
+html:not(.dark) body {
+  background-color: #fffaf0;
+  /* light golden hint */
+  color: #2d2d2d;
+}
+
+html:not(.dark) form,
+html:not(.dark) input,
+html:not(.dark) select,
+html:not(.dark) textarea {
+  background-color: #ffffff;
+  color: #000;
+  border-color: #e0c97f;
+}
+
+html:not(.dark) input:focus,
+html:not(.dark) select:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #ffd70088;
+}
+
+html:not(.dark) .file\:bg-yellow-100 {
+  background-color: #fff;
+}
+
+html:not(.dark) .file\:text-yellow-700 {
+  color: #b58900;
+}
+
+html:not(.dark) button {
+  background-color: #d4af37;
+}
+
+html:not(.dark) button:hover {
+  background-color: #c49b2e;
+}
