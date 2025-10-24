@@ -46,22 +46,14 @@ To include these images, make sure you have a folder named **`assets`** in your 
 | Feature | Description | Image |
 | :--- | :--- | :--- |
 | **Student Registration** | The sign-up form for new students. | ![Registration Form](assets/Screenshot%202025-10-24%20213824.png) |
-| **Registration Success Email** | The email sent with the temporary password. | ![Confirmation Email](assets/Screenshot%202025-10-24%20214243.png) |
+| **Registration Success Email** | The email sent with the temporary password. | ![Confirmation Email](assets/confirmation_email.png) |
 | **Student Login** | The interface for students to sign in. | ![Login Screen](assets/Screenshot%202025-10-24%20214407.png) |
 | **Student Dashboard** | The main landing page after login, showing key modules and announcements. | ![Dashboard View](assets/Screenshot%202025-10-24%20214823.png) |
 | **Edit Profile** | The interface for updating personal and contact details. | ![Profile Update Screen](assets/Screenshot%202025-10-24%20214808.png) |
+| **Payment Screen** | The interface for Adding Amount in RS/- to Pay Tution Fees . | ![Payment Screen For Amount Input](assets/Screenshot%2025-08-25%104332.png) |
 
 ---
 
-## 💡 Idea for More Screenshots
-
-To make your project more complete, you should consider adding these screens:
-
-1.  **Payment Gateway Screen:** A screenshot of the actual page where the student enters credit card/payment details.
-2.  **View Notes/Materials Page:** A screenshot of the page that lists or displays the uploaded study materials.
-3.  **Successful Payment Confirmation:** A notification or page confirming that a fee payment was successful.
-
----
 
 ## 🤝 Contributing
 
